@@ -1,0 +1,1 @@
+select * from portal_gateway.messagegateway.Message
