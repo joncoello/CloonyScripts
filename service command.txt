@@ -1,0 +1,1 @@
+"C:\worker\Addison.ServiceHosts.WindowsServiceHost.exe" @gmg.args
